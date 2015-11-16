@@ -1,3 +1,5 @@
+![NoLHS logo](/banner.jpg)
+
 # NoLHS
 This small php script converts Literate Haskell files to plain Haskell equivalents.
 
